@@ -1,4 +1,4 @@
-# Dash-Plotly Dashboard with Popup Modal Window.
+# Plotly-Dash Dashboard with Popup Modal Window.
 
 Dash-Plotly Dashboard with Modal (Popup Window) Example.
 
